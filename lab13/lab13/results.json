@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 7,
+            "max_score": 7,
+            "name": "test_lab13.py::test_is_prime",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

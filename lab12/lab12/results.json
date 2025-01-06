@@ -1,0 +1,116 @@
+{
+    "tests": [
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_product",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_summation",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_accumulate",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_product_short",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_summation_short",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_sqrt",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_mode",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_std_dev",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_stat_analysis",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_invert",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_change",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_invert_short",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_change_short",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_square",
+            "output": "\ndef test_square():\n        assert square(0) == 0\n>       assert square(-1) == 1\nE       assert -2 == 1\nE        +  where -2 = square(-1)\n\ntest_lab12.py:75: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_mean",
+            "output": "\ndef test_mean():\n        assert mean([0,0,0,0,0,0,]) == 0\n        assert mean([-1,-1,-1,-1]) == -1\n>       assert mean([100, 42, -2, -9] == pytest.approx(32.75))\n\ntest_lab12.py:94: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nnumbers = False\n\n    def mean(numbers):\n>       assert isinstance(numbers, list), \"Must be list\"\nE       AssertionError: Must be list\n\nlab12.py:49: AssertionError",
+            "visibility": "visible"
+        },
+        {
+            "score": 0,
+            "max_score": 0,
+            "name": "test_lab12.py::test_median",
+            "output": "\ndef test_median():\n        assert median([1,1,1,1,1,1,1]) == 1\n        assert median([0,0,0,0,0]) == 0\n        assert median([-1,-1,-1]) == -1\n>       assert median([55,12,90]) == 12\nE       assert 55 == 12\nE        +  where 55 = median([55, 12, 90])\n\ntest_lab12.py:103: AssertionError",
+            "visibility": "visible"
+        }
+    ]
+}

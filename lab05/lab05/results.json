@@ -1,0 +1,11 @@
+{
+    "tests": [
+        {
+            "score": 5,
+            "max_score": 5,
+            "name": "test_lab05.py::test_create_left_border",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

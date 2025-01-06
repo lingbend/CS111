@@ -1,0 +1,13 @@
+Welcome to the CS 111 Calculator Interpreter.
+calc >> <<(+ 2 3)>>
+``5;answer-1;18``
+calc >> <<(- 5 2 1)>>
+``2;answer-2;18``
+calc >> <<(* 6 (/ 2 4))>>
+``3.0;answer-3;18``
+calc >> <<(/ (+ 1 (- 5 1)) 0.5)>>
+``10.0;answer-4;18``
+calc >> <<(+ (- 9 (* 2 3)) (/ (+ 8 3 (* 2 2)) (- 3.5 0.5)) 2)>>
+``10.0;answer-5;18``
+calc >> <<exit>>
+Goodbye!

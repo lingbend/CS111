@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab22.py::test_plot_histogram",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_lab22.py::test_plot_scatter",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8,
+            "max_score": 8,
+            "name": "test_lab22.py::test_plot_spectra",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

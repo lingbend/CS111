@@ -1,0 +1,46 @@
+{
+    "tests": [
+        {
+            "score": 4,
+            "max_score": 4,
+            "name": "test_calculator.py::test_parse_tokens_1",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 6,
+            "max_score": 6,
+            "name": "test_calculator.py::test_parse_tokens_2",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 8,
+            "max_score": 8,
+            "name": "test_calculator.py::test_parse_tokens_3",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_calculator.py::test_parse_tokens_4",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 12,
+            "max_score": 12,
+            "name": "test_calculator.py::test_parse_tokens_5",
+            "output": "\n",
+            "visibility": "visible"
+        },
+        {
+            "score": 10,
+            "max_score": 10,
+            "name": "test_calculator.py::test_parse_tokens_error",
+            "output": "\n",
+            "visibility": "visible"
+        }
+    ]
+}

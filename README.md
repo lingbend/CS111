@@ -1,5 +1,5 @@
 # CS111
-BYU CS 111 class
+BYU CS 111 class in Python
 
 ## Homework 1: Admission Data Processing
 Intakes student data from a csv file, parses it, and scores it according to various algorithms, outputting each result as a file.
